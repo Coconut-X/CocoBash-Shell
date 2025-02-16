@@ -90,20 +90,22 @@ CocoBash allows timed execution of commands:
 ./CocoBash timeout 5 some_command
 ```
 If the command exceeds 5 seconds, it will be forcefully terminated.
+<br>
+🛠️ Dependencies <br>
+✅ Linux OS <br>
+✅ GCC (GNU Compiler Collection) <br>
+📜 License <br>
+This project is open-source under the MIT License. Feel free to modify and contribute! 🤖 <br>
+<br>
 
-🛠️ Dependencies
-✅ Linux OS
-✅ GCC (GNU Compiler Collection)
-📜 License
-This project is open-source under the MIT License. Feel free to modify and contribute! 🤖
+🤝 Contributing <br>
+🔥 Want to improve CocoBash? <br>
+Submit issues, feature requests, or pull requests on GitHub. <br>
+<br>
 
-🤝 Contributing
-🔥 Want to improve CocoBash?
-Submit issues, feature requests, or pull requests on GitHub.
-
-⭐ Support & Feedback
-If you find CocoBash useful, give it a star ⭐ on GitHub!
-For feedback or suggestions, open an issue or reach out. 🚀
+⭐ Support & Feedback <br>
+If you find CocoBash useful, give it a star ⭐ on GitHub! <br>
+For feedback or suggestions, open an issue or reach out. 🚀 <br>
 
 Author: [Ali Imran]
 📂 GitHub Repo: CocoBash-Shell
