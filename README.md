@@ -73,14 +73,15 @@ You can execute a command directly when starting CocoBash:
 ./CocoBash echo "Hello, World!"
 ```
 
-⚙️ How It Works
-🛠️ Shell Execution Flow
-1️⃣ Displays a Prompt → "Coconut's Shell: /home/user > $"
-2️⃣ Waits for User Input → Reads input using fgets().
-3️⃣ Parses Command & Arguments → Uses strtok() for tokenization.
-4️⃣ Executes Command → Calls fork() and execvp().
-5️⃣ Handles Timeout (if specified) → Spawns a timer process.
-6️⃣ Supports Argument Passing – Run commands with multiple arguments effortlessly.
+⚙️ How It Works <br>
+🛠️ Shell Execution Flow <br>
+1️⃣ Displays a Prompt → "Coconut's Shell: /home/user > $" <br>
+2️⃣ Waits for User Input → Reads input using fgets(). <br>
+3️⃣ Parses Command & Arguments → Uses strtok() for tokenization. <br>
+4️⃣ Executes Command → Calls fork() and execvp(). <br>
+5️⃣ Handles Timeout (if specified) → Spawns a timer process. <br>
+6️⃣ Supports Argument Passing – Run commands with multiple arguments effortlessly. <br>
+<br>
 
 ⏳ Timeout Handling
 CocoBash allows timed execution of commands:
